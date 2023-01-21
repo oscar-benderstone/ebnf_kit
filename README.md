@@ -1,8 +1,11 @@
-# ebnf
+# ebnf_kit
 
-> A successor bnf parsing library of bnf parsing library, for parsing Extended Backus–Naur form context-free grammars
+> A successor to the [ebnf](https://github.com/ChAosUnIty/ebnf) parsing library. This crate aims to enhance ebnf parsing for sentences, add unicode support, and more.
 
-The code is available on [GitHub](https://github.com/ChAoSUnItY/ebnf)
+I am making this for Welkin, a new language to meant for taking notes, storing mathematical strucutres, and more. More details to be posted.
+
+## Warning: 
+This tool is early development and will be available for sometime. Updates to be posted. For development logs, please see my blog [Logs of Humanistic Logic] (https://logsofhumanisticlogic.wordpress.com/). 
 
 ## Disclaimer:
 There are various variants of EBNF, which uses somewhat different syntactic conventions. This library 
